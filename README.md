@@ -4,8 +4,6 @@
 [this is Live project](https://mostafiz9900.github.io/1243560/)
 
 
-![alt text](http://picsum.photos/200/200)
-
 # Title:
 ### Static Website: The News Reporter
 
