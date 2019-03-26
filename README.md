@@ -1,7 +1,7 @@
 # 1243560
 ### Live 
 
-[this is Live project] (https://mostafiz9900.github.io/1243560/)
+[this is Live project](https://mostafiz9900.github.io/1243560/)
 
 .
 
