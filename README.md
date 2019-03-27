@@ -17,7 +17,3 @@ How to use HTML, CSS, and bootstrap to turn designs into fully functional respon
 
 ![Capture](https://user-images.githubusercontent.com/38970298/55007820-49e95900-4f9d-11e9-8b6f-7ec14945c1c7.PNG)
 
-##logo
-![](image/1.jpg)
-
-<img src="image/1.jpg" >
